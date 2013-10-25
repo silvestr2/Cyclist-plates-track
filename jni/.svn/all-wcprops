@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/100/trunk/Android/apps/objtrack/jni
+END
+objtrack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/99/trunk/Android/apps/objtrack/jni/objtrack.cpp
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/100/trunk/Android/apps/objtrack/jni/Android.mk
+END
+Application.mk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/99/trunk/Android/apps/objtrack/jni/Application.mk
+END
